@@ -84,7 +84,7 @@ img {
     font-size: 36px;
 }
 
-.contentdetails {
+.content .contentdetails {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -109,7 +109,7 @@ img {
     text-align: center;
 }
 
-.benefitdetail {
+.benefits .benefitdetail {
     margin-bottom: 32px;
     color: #ffffff;
 }
