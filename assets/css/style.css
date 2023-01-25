@@ -29,7 +29,7 @@ header {
     color: #d9dcd6;
 }
 
-/*header navaigation links should have padding-top 15px, margin-right 20px, float right top side of page, fonts:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; font size 20px */
+/* header navaigation links should have padding-top 15px, margin-right 20px, float right top side of page, fonts:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; font size 20px */
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -38,13 +38,18 @@ header {
     font-size: 20px;
 }
 
+/* links do not have bullets */
+.header nav ul {
+    list-style-type: none;
+}
+
 /* header links display inline-block and margin-left 25px */
 .header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
 
-/* links are white */
+/* links are white and do not have any underline */
 a {
     color: #ffffff;
     text-decoration: none;
