@@ -14,4 +14,7 @@ This website contains Horiseon marketing agency information, including features 
 
 ## Screenshot of Deployed Website
 
-Link here to deployed website
+
+![image](https://user-images.githubusercontent.com/120981491/214718368-55bdd304-f08e-426c-9b2a-b8991d2f14c5.png)
+
+https://chelsealuevano.github.io/M1-Accessible-Code/#social-media-marketing
